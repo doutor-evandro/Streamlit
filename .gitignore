@@ -1,0 +1,17 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configuracoes locais e segredos
+.streamlit/secrets.toml
+.env
+
+# Sistema / editor
+.vscode/
+Thumbs.db
+desktop.ini
