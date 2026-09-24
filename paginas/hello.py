@@ -7,7 +7,7 @@ pagina e aberta ou algo nela muda.
 
 import streamlit as st
 
-st.title("Hello World! 👋")
+st.title("Hello World!2 👋")
 st.write("Meu primeiro programa em Streamlit.")
 
 nome = st.text_input("Qual e o seu nome?", value="Evandro")

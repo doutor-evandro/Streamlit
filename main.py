@@ -23,7 +23,7 @@ st.set_page_config(
 paginas = [
     st.Page(
         "paginas/hello.py",
-        title="Hello World",
+        title="Hello World2",
         icon=":material/waving_hand:",
         default=True,
     ),
