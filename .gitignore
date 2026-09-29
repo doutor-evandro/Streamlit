@@ -11,6 +11,10 @@ __pycache__/
 .streamlit/secrets.toml
 .env
 
+# Bancos de dados locais (Projetos 08 e 10)
+*.db
+*.sqlite3
+
 # Sistema / editor
 .vscode/
 Thumbs.db
