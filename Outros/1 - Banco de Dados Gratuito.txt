@@ -2,4 +2,4 @@ Local:
 https://supabase.com/
 
 senha do banco:
-KMMt7mQx2vBn9pLr4wZc6s
+lVgZol2vuc50KKMm
